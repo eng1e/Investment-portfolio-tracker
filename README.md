@@ -30,7 +30,7 @@ need for manually maintained datasets.
 - Interactive elements make it easy for non-technical stakeholders to understand portfolio behavior.
 
 ## Live Dashboard Link
-[Click here to view the live dashboard](https://share.streamlit.io/eng1e/Investment--Dashboard/main/app.py)
+[Click here to view the live dashboard](https://share.streamlit.io/eng1e/Investment-portfolio-tracker/main/app.py)
 
 ## Assumptions & Limitations
 - Assumes Yahoo Finance data is accurate and complete for selected assets.
